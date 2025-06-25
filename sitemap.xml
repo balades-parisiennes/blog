@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://balades-parisiennes.github.io/blog/posts/artemisia/</loc>
+    <lastmod>2025-06-25T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>https://balades-parisiennes.github.io/blog/tags/exposition/</loc>
+    <lastmod>2025-06-25T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>https://balades-parisiennes.github.io/blog/tags/f%C3%A9minisme/</loc>
+    <lastmod>2025-06-25T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>https://balades-parisiennes.github.io/blog/</loc>
+    <lastmod>2025-06-25T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>https://balades-parisiennes.github.io/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/</loc>
+    <lastmod>2025-06-25T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>https://balades-parisiennes.github.io/blog/posts/</loc>
+    <lastmod>2025-06-25T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>https://balades-parisiennes.github.io/blog/tags/</loc>
+    <lastmod>2025-06-25T10:22:17+02:00</lastmod>
+  </url><url>
     <loc>https://balades-parisiennes.github.io/blog/tags/cin%C3%A9ma/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://balades-parisiennes.github.io/blog/tags/expo-photo/</loc>
-    <lastmod>2025-06-23T08:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://balades-parisiennes.github.io/blog/tags/exposition/</loc>
-    <lastmod>2025-06-23T08:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://balades-parisiennes.github.io/blog/tags/f%C3%A9minisme/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://balades-parisiennes.github.io/blog/tags/histoire/</loc>
@@ -26,16 +41,7 @@
     <loc>https://balades-parisiennes.github.io/blog/posts/agnes-varda/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://balades-parisiennes.github.io/blog/</loc>
-    <lastmod>2025-06-23T08:00:00+02:00</lastmod>
-  </url><url>
     <loc>https://balades-parisiennes.github.io/blog/tags/mus%C3%A9e-carnavalet/</loc>
-    <lastmod>2025-06-23T08:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://balades-parisiennes.github.io/blog/posts/</loc>
-    <lastmod>2025-06-23T08:00:00+02:00</lastmod>
-  </url><url>
-    <loc>https://balades-parisiennes.github.io/blog/tags/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
     <loc>https://balades-parisiennes.github.io/blog/tags/quai-de-la-photo/</loc>
@@ -44,19 +50,21 @@
     <loc>https://balades-parisiennes.github.io/blog/posts/superfacial/</loc>
     <lastmod>2025-06-22T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>https://balades-parisiennes.github.io/blog/categories/</loc>
-    <lastmod>2025-06-20T10:22:17+02:00</lastmod>
-  </url><url>
-    <loc>https://balades-parisiennes.github.io/blog/categories/culture/</loc>
+    <loc>https://balades-parisiennes.github.io/blog/tags/f%C3%A9%C3%A9rique/</loc>
     <lastmod>2025-06-20T10:22:17+02:00</lastmod>
   </url><url>
     <loc>https://balades-parisiennes.github.io/blog/posts/ocean-de-lea/</loc>
     <lastmod>2025-06-20T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>https://balades-parisiennes.github.io/blog/categories/paris/</loc>
+    <loc>https://balades-parisiennes.github.io/blog/tags/origami/</loc>
+    <lastmod>2025-06-20T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>https://balades-parisiennes.github.io/blog/tags/patinoire-de-saint-ouen/</loc>
     <lastmod>2025-06-20T10:22:17+02:00</lastmod>
   </url><url>
     <loc>https://balades-parisiennes.github.io/blog/posts/projet-blog/</loc>
     <lastmod>2025-06-07T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>https://balades-parisiennes.github.io/blog/categories/</loc>
   </url>
 </urlset>
